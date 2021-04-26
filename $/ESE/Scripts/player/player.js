@@ -23,9 +23,9 @@
         // this.scale.y = this.scale.y-(this.scale.y-Math.min(50, Math.max(50/d, 30)))*0.1;
 
         if(angles(this.angle, angle))
-            this.angle += d*0.1;
+            this.angle += d*0.2;
         else
-            this.angle -= d*0.1;
+            this.angle -= d*0.2;
 
         rjs.currentCamera.pos = rjs.currentCamera.pos.sub(rjs.currentCamera.pos.sub(this.pos).mult(0.2));
 

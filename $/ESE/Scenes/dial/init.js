@@ -34,7 +34,7 @@
 	});
 
 	$dial_kd = new rjs.KeyDown(e => {
-		// dial_next();
+		dial_next();
 	}, 32, true, scene);
 
 	$dial_next = function () {

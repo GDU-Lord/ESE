@@ -83,6 +83,9 @@
 		if(rjs.MouseOver(b2)) {
 			window.open("https://github.com/GDU-Lord/RE-5");
 		}
+		if(rjs.MouseOver(b1)) {
+			window.open("https://itch.io/jam/gamedevjs-2021/rate/1012978");
+		}
 	});
 
 	const loop = new rjs.GameLoop(() => {
