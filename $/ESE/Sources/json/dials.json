@@ -1,0 +1,236 @@
+[
+    [
+        {
+            "name": "Hugh",
+            "voice": ["h1"],
+            "text": "Hi, my name is Hugh. I grew up in a family of 6 on a small abandoned planet called Eilling 3."
+        },
+        {
+            "name": "Hugh",
+            "voice": ["h2", "h3"],
+            "text": "I spent my childhood on the small farm next to a small Cosmoport - the only gate from this planet into the Universe."
+        }, 
+        {
+            "name": "Hugh",
+            "voice": ["h4"],
+            "text": "But nobody really cares about the stars above, nobody except me..."
+        }, 
+        {
+            "name": "Hugh",
+            "voice": ["h5"],
+            "text": "I'm sick of all this routine on the farm, hadn't ever found it even a bit interesting."
+        }, 
+        {
+            "name": "Hugh",
+            "voice": ["h6"],
+            "text": "I was staring at the sky the whole night and looking on the spacecrafts floating by our planet."
+        }, 
+        {
+            "name": "Hugh",
+            "voice": ["h7"],
+            "text": "They almost never landed on the planet, just floating by..."
+        }, 
+        {
+            "name": "Hugh",
+            "voice": ["h8"],
+            "text": "One day I hread that our planet was gonna be visited by the Military Agency of Eternal Star Empire."
+        }, 
+        {
+            "name": "Hugh",
+            "voice": ["h9", "h10"],
+            "text": "They wanted to recruit new soliders. That hit me, that's my chance to leave this planet!"
+        }, 
+        {
+            "name": "Hugh",
+            "voice": ["h11"],
+            "text": "Early in the morning I've come to the Cosmoport when the Agency came up."
+        }, 
+        {
+            "name": "Hugh",
+            "voice": ["h12"],
+            "text": "An hour later I was splitting the space together with a few another recruits on a board of the Military Agency spacecraft..."
+        },
+        {
+            "name": "Officer",
+            "voice": ["masteroff1"],
+            "text": "Ok, ok, stop f**cking my mind with your sweety stories! Now you're a SOLDIER of Eternal Star Empire!"
+        },
+        {
+            "name": "Officer",
+            "voice": ["masteroff1.5"],
+            "text": "So take up your ass and go to the spacecraft over there!"
+        },
+        {
+            "name": "NEXT",
+            "voice": [],
+            "text": ""
+        }
+    ],
+    [
+        {
+            "name": "Vezie",
+            "voice": ["vez1"],
+            "text": "Hi! I'm Vezie, your robotic instructor and assistant. I will help find out how this wingy bird is flying!"
+        },
+        {
+            "name": "Vezie",
+            "voice": ["vez2"],
+            "text": "\n Move your mouse to rotate your spacecraft!"
+        },
+        {
+            "name": "Vezie",
+            "voice": [],
+            "text": "\nPress SPACE to move forward!"
+        },
+        {
+            "name": "Vezie",
+            "voice": [],
+            "text": "\nUse the left mouse button to shoot!"
+        },
+        {
+            "name": "Vezie",
+            "voice": [],
+            "text": "\nPerfect! Follow the red marker on the minimap!"
+        },
+        {
+            "name": "Vezie",
+            "voice": [],
+            "text": "\nBrilliant! Move to another red marker on the minimap!"
+        },
+        {
+            "name": "Vezie",
+            "voice": [],
+            "text": "\nAmazing! That's enough for the first time."
+        },
+        {
+            "name": "NEXT",
+            "voice": [],
+            "text": ""
+        }
+    ],
+    [
+        {
+            "name": "Officer",
+            "voice": ["masteroff2"],
+            "text": "What's up soldier? I see you're getting better and better, but now get out of here and follow me, I have something special for you!"
+        },
+        {
+            "name": "Officer",
+            "voice": ["masteroff3.1"],
+            "text": "There's something great coming up, so hear me out!"
+        },
+        {
+            "name": "Officer",
+            "voice": ["masteroff3.2"],
+            "text": "456 parsecs far from here there's a thing that we used to call the edge of the Universe."
+        },
+        {
+            "name": "Officer",
+            "voice": ["masteroff3.3"],
+            "text": "It works like a big mirror of entire Universe, technicaly it's still a part of our Universe, but unusual one."
+        },
+        {
+            "name": "Officer",
+            "voice": ["masteroff3.4"],
+            "text": "Everything that happens here happens on the other side as well."
+        },
+        {
+            "name": "Officer",
+            "voice": ["masteroff3.5"],
+            "text": "Everybody and everything here has a twin on the other side, and the twins act and move right like we do."
+        },
+        {
+            "name": "Officer",
+            "voice": ["masteroff3.6"],
+            "text": "\nAlmost..."
+        },
+        {
+            "name": "Officer",
+            "voice": ["masteroff3.7"],
+            "text": "We have one difference. If we do nothing they're gonna endager entire universe to be destroyed in a term of a million years."
+        },
+        {
+            "name": "Officer",
+            "voice": ["masteroff3.8"],
+            "text": "We have to stop this. That's why we started recruiting throughout all the Empire. We have to fight them."
+        },
+        {
+            "name": "Hugh",
+            "voice": ["h15.1"],
+            "text": "Yes, sir, but how are you going to fight them if they do everything just like we do?"
+        },
+        {
+            "name": "Hugh",
+            "voice": ["h15.2"],
+            "text": "You couldn't even cross the border, you'll just crash into your twin!"
+        },
+        {
+            "name": "Officer",
+            "voice": ["masteroff4"],
+            "text": "Yeah, that's the right question. But we've got something special!"
+        },
+        {
+            "name": "Officer",
+            "voice": ["masteroff4.5.1"],
+            "text": "We've got a technology which allows us to teleport our fighters to the other side, without teleporting the twins."
+        },
+        {
+            "name": "Officer",
+            "voice": ["masteroff4.5.2"],
+            "text": "\nSo than we can fight them.\nAnd..."
+        },
+        {
+            "name": "Officer",
+            "voice": ["masteroff4.5.3"],
+            "text": "You will be one of the fighters that will be teleported to the other side!"
+        },
+        {
+            "name": "Officer",
+            "voice": ["masteroff4.5.4"],
+            "text": "You have to carry this mission, in the name of Empire and in the name of the Universe!"
+        },
+        {
+            "name": "Officer",
+            "voice": ["masteroff5"],
+            "text": "Fly your wheel into the Intergalactic Cruiser, we're taking off in 15 minutes!"
+        },
+        {
+            "name": "NEXT",
+            "voice": [],
+            "text": ""
+        }
+    ],
+    [
+        {
+            "name": "Officer",
+            "voice": ["masteroff6"],
+            "text": "SOLDIERS! Today you're here to protect our universe from beeing destroyed!"
+        },
+        {
+            "name": "Officer",
+            "voice": ["masteroff6.5.1"],
+            "text": "\nIt's gonna be a very unusual fight."
+        },
+        {
+            "name": "Officer",
+            "voice": ["masteroff6.5.2"],
+            "text": "But you have to hold the line even if fight with your own reflection in the mirror!"
+        },
+        {
+            "name": "Officer",
+            "voice": ["masteroff6.5.3"],
+            "text": "In the name of the Empire and for the future of our Universe!"
+        },
+        {
+            "name": "Officer",
+            "voice": ["masteroff7"],
+            "text": "\n All in places! We're taking of in a minute!"
+        },
+        {
+            "name": "NEXT",
+            "voice": [],
+            "text": ""
+        }
+    ]
+]
+

@@ -1,0 +1,8 @@
+origin
+    if enemy isn't a twin and he's the closest one
+        chase him
+twin
+    if origin exists
+        copy moves
+    otherwise
+        set type to origin
